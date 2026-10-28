@@ -45,7 +45,7 @@ BDF-1/
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/ChallaBhavana-007/BDF-1.git
+   git clone https://github.com/ChallaBhavana-007/CHALLA-BHAVANA.git
    ```
 
 3. Open the project folder in VS Code.
